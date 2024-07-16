@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-const store = cofigureStore({
+const store = configureStore({
     reducer: {
     }
 })
